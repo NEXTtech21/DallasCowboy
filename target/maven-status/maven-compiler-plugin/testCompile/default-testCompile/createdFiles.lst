@@ -1,0 +1,8 @@
+com\nexttech\Stepdefs\Courses.class
+com\nexttech\testrunner\TestRunnerNG.class
+com\nexttech\PageObjectModel\CoursesPOM.class
+com\nexttech\Stepdefs\Actions_Class.class
+com\nexttech\Stepdefs\BankOfAmerica.class
+com\nexttech\PageObjectModel\BankOfAmerPOM.class
+Utility\BrowserFactory1.class
+com\nexttech\testrunner\TestRunnerNG$TestRunner.class
